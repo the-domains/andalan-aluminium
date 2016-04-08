@@ -1,0 +1,28 @@
+name: Andalan Aluminium
+favicon: null
+layout_spectrum: 0.622530410066247
+typography_spectrum: 0.41438401443883777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.49558093515224755
+  lightness: 0.33036849764175713
+  saturation: 0.6721369808074087
+  rhythmicContrast: 0.6741061040665954
+purpose: []

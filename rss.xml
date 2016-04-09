@@ -4,8 +4,15 @@
         <description><![CDATA[Andalan Aluminium]]></description>
         <link>https://thegrid.ai/andalan-aluminium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 03:13:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andalan-aluminium/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88e590a-c9e5-4f49-9c6a-4be2a087ce94.jpg">]]></description>
+            <link>https://thegrid.ai/andalan-aluminium/pintu-dan-jendela-aluminium-premium/index.html</link>
+            <guid isPermaLink="false">1197eb23-9d58-4be9-9b8b-a857ac5eece8</guid>
+            <pubDate>Sat, 09 Apr 2016 03:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andalan Aluminium]]></title>
             <description><![CDATA[<article><h1>Andalan Aluminium</h1><p>hello this is Andalan Aluminium, </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2abdb1c-83d8-441c-97ef-6d09a12f9b8c.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/andalan-aluminium/lovera/index.html</link>
             <guid isPermaLink="false">4d95dfa2-2cc2-4077-9d10-a7ad67eae096</guid>
             <pubDate>Fri, 08 Apr 2016 11:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2677686-0b55-4d73-bd28-e398624fd512.jpg">]]></description>
-            <link>https://thegrid.ai/andalan-aluminium/pintu-dan-jendela-aluminium-premium/index.html</link>
-            <guid isPermaLink="false">1197eb23-9d58-4be9-9b8b-a857ac5eece8</guid>
-            <pubDate>Fri, 08 Apr 2016 11:26:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

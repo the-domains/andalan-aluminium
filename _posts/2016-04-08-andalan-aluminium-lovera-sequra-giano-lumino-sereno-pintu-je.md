@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "hello this is Andalan Aluminium,\_"
-datePublished: '2016-04-09T03:30:13.978Z'
-dateModified: '2016-04-09T03:30:13.339Z'
+description: Andalan Aluminium.
+datePublished: '2016-04-09T05:10:18.951Z'
+dateModified: '2016-04-09T05:09:43.501Z'
 title: Andalan Aluminium
 author: []
 sourcePath: _posts/2016-04-08-andalan-aluminium-lovera-sequra-giano-lumino-sereno-pintu-je.md

@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Pabrik Factory
-datePublished: '2016-04-14T10:15:03.595Z'
-dateModified: '2016-04-14T10:14:20.697Z'
+datePublished: '2016-04-14T10:17:59.676Z'
+dateModified: '2016-04-14T10:15:11.575Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-pabrik-factory.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-pabrik-factory.md
-published: true
 url: pabrik-factory/index.html
 _type: Article
 

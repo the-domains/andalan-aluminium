@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Aluminium French-style doow and window system
-datePublished: '2016-04-30T05:25:06.174Z'
-dateModified: '2016-04-30T05:23:56.172Z'
+description: Aluminium French-style door and window system
+datePublished: '2016-04-30T06:05:46.254Z'
+dateModified: '2016-04-30T06:05:45.521Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-aluminium-french-style-doow-and-window-system.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-aluminium-french-style-doow-and-window-system.md
-published: true
 url: aluminium-french-style-doow-and-window-system/index.html
 _type: Article
 
 ---
-Aluminium French-style doow and window system
+Aluminium French-style door and window system
 
 Beveled individual glass panes 
 

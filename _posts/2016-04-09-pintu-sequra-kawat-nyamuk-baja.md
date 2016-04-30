@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Aluminium frame with steel mosquito mesh door and window system.
-datePublished: '2016-04-30T06:07:24.965Z'
-dateModified: '2016-04-30T06:07:24.349Z'
+datePublished: '2016-04-30T09:10:20.572Z'
+dateModified: '2016-04-30T09:09:44.096Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-pintu-sequra-kawat-nyamuk-baja.md
@@ -24,3 +24,11 @@ _type: Article
 ---
 Aluminium frame with steel mosquito mesh door and window system.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f7ce8e-e3fa-48f4-8c5f-f1deffc996b7.jpg)
+
+Jaring baja Anti-karat lapis powder coating
+
+Sistem kait genggam
+
+Frame Aluminium
+
+Cocok digunakan untuk: Pintu kawat nyamuk, Jendela, Ventilasi pengaman loket, Showroom,

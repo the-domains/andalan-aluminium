@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Aluminium frame with steel mosquito mesh door and window system.
-datePublished: '2016-04-30T09:10:20.572Z'
-dateModified: '2016-04-30T09:09:44.096Z'
+datePublished: '2016-04-30T09:11:42.781Z'
+dateModified: '2016-04-30T09:11:32.466Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-pintu-sequra-kawat-nyamuk-baja.md
@@ -31,4 +31,4 @@ Sistem kait genggam
 
 Frame Aluminium
 
-Cocok digunakan untuk: Pintu kawat nyamuk, Jendela, Ventilasi pengaman loket, Showroom,
+Cocok digunakan untuk: Pintu kawat nyamuk, Jendela, Ventilasi pengaman loket, Showroom, Bank, dan sebagainya.

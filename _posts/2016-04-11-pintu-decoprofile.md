@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Full Aluminium Decoprofile door system
-datePublished: '2016-04-30T08:52:44.626Z'
-dateModified: '2016-04-30T08:52:44.067Z'
+datePublished: '2016-05-05T03:39:19.236Z'
+dateModified: '2016-05-05T03:38:41.848Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-pintu-decoprofile.md
-published: true
 authors: []
 publisher:
   name: null
@@ -25,14 +24,14 @@ _type: Article
 Full Aluminium Decoprofile door system
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab4cca37-f483-48a7-b8a3-3769ba2fcc81.jpg)
 
-Kuat dan tahan lama,
+Kuat dan tahan lama.
 
-Bernilai Estetika
+Bernilai Estetika.
 
-Hemat
+Hemat.
 
-Bersahabat dengan alam
+Bersahabat dengan alam.
 
-Fleksibel dalam model
+Fleksibel dalam model.
 
-Warna tidak pudar
+Warna tidak pudar.
